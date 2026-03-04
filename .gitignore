@@ -46,3 +46,5 @@ Thumbs.db
 data/*.zip
 data/*.mp4
 data/*.avi
+data/*.caffemodel
+data/*.prototxt
